@@ -2,6 +2,7 @@
 
 姓名：王鹏宇  
 学号：240809010506  
+专业和年级：24届计算机科学与技术  
 题目：HPL 基础题  
 资源：Google Colab（OpenMPI + OpenBLAS，2 个 MPI 进程）
 
@@ -27,4 +28,3 @@ mpirun --allow-run-as-root --oversubscribe -np 2 ./xhpl
 ```
 
 每次测试只修改 `HPL.dat` 中的 N 和 NB；HPL 源码、编译产物和 Colab 系统包不放入本轻量仓库。
-

@@ -1,0 +1,35 @@
+[
+  {
+    "N": 256,
+    "NB": 32,
+    "P": 1,
+    "Q": 2,
+    "seconds": 0.922635,
+    "gflops": 0.012123,
+    "returncode": 0,
+    "correctness": "PASSED",
+    "log": "hpl_N256_NB32.log"
+  },
+  {
+    "N": 384,
+    "NB": 32,
+    "P": 1,
+    "Q": 2,
+    "seconds": 0.638987,
+    "gflops": 0.059076,
+    "returncode": 0,
+    "correctness": "PASSED",
+    "log": "hpl_N384_NB32.log"
+  },
+  {
+    "N": 512,
+    "NB": 64,
+    "P": 1,
+    "Q": 2,
+    "seconds": 0.722432,
+    "gflops": 0.123857,
+    "returncode": 0,
+    "correctness": "PASSED",
+    "log": "hpl_N512_NB64.log"
+  }
+]
